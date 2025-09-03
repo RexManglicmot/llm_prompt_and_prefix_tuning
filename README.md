@@ -17,9 +17,9 @@ Project is still ongoing with lots of updates and revisions in pursuance.
 
 8) Evaluate. DONE.
 
-9) Plots. START HERE.
+9) Plots. DONE.
 
-10) Qualitative examples
+10) Qualitative examples.
 
 11) optional prompt-engineering baselines
 
